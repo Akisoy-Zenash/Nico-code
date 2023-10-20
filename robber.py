@@ -12,6 +12,6 @@ for idx, i in enumerate(houses):
 if paire > impaire:
     print(f"The max is {paire} starting with the first house and going on one by one")
 elif paire < impaire:
-    print(f"The max is {imapaire} starting with the second house and going on one by one")
+    print(f"The max is {impaire} starting with the second house and going on one by one")
 else:
     print(f"The max is {paire}, it doesn't matter where u start just go on one by one")
